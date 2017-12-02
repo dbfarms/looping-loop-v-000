@@ -1,6 +1,6 @@
 def looping
 	#your code here
-  do
+  loop do
     puts "something about a time machine"
   end
 end
